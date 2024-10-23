@@ -12,4 +12,3 @@ st.write("https://github.com/jiseon-park/myfirststreamlit")
 # st.info("파란색 창")
 # st.warning("노란색 창") # ctrl+/ : 주석처리
 st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRzaTZqaGZuemdwejFwbDRndWNmYzZjcWpkeW1leDFsZXk5Z3gzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hJyph1m77Qj3a/giphy.gif")
-st.video("https://youtube.com/shorts/9gpf_Qh3zOE?si=OJCk0u7hzcGfITk1")
